@@ -1,0 +1,120 @@
+{
+    "cars": [
+      {
+        "id": 0,
+        "name": "ABC",
+        "price":122220,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GLjCjNufYwvFqPqotpI1D604buzwKC64Aw&usqp=CAU"
+
+      },{
+        "id": 1,
+        "name": "AD",
+        "price":19920,
+        "image":"https://www.kindpng.com/picc/m/48-485725_mclaren-automotive-orange-sports-car-convertible-hd-png.png"
+
+      },
+      {
+        "id": 2,
+        "name": "Car1",
+        "price":18820,
+        "image":"https://pngimg.com/d/Mclaren_PNG62.png"
+
+      },
+      {
+        "id": 3,
+        "name": "Car2",
+        "price":137820,
+        "image":"https://starpng.com/public/uploads/preview/mclaren-png-mclaren-c-car-png-image-101576783264frld1g0yex.png"
+
+      },
+      {
+        "id": 4,
+        "name": "Car3",
+        "price":19920,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJYE7M7VVzSN5GovbXKhxC0ThB_Qedyy8VGCO1ePRTkxaziQNDq4swHSSPwS99-T-AdM&usqp=CAU"
+
+      },
+      {
+        "id": 5,
+        "name": "Car4",
+        "price":12770,
+        "image":"https://www.carscoops.com/wp-content/uploads/2023/05/McLaren-750S-1024x576.jpg"
+
+      },
+      {
+        "id": 6,
+        "name": "Car5",
+        "price":12349,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHNK7yssbrIMEys2YRqrv2ghoYktsO7UMiNjKuvD1I4oJ5Z6SUZgs5m2sWIUIZreJwlc&usqp=CAU"
+
+      },
+      {
+        "id": 7,
+        "name": "Car6",
+        "price":45000,
+        "image":"https://clipart-library.com/image_gallery2/Mercedes-Benz-PNG-Pic.png"
+
+      },
+      {
+        "id": 8,
+        "name": "Car7",
+        "price":28888,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5bu4LZliUOHegEFnjCLcTOb8WN_5BeRIEhRmW8x9khBpuYMZ-XaXcEQXe6ttCZypw7w&usqp=CAU"
+
+      },
+      {
+        "id": 9,
+        "name": "Car8",
+        "price":1300,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTa0zxcTR6azJadMhn8f0dIgoSARPWvcbjJk_1xXThkZh_vqqQzfK9rBOhNe5gZbsuVeA&usqp=CAU"
+
+      },
+      {
+        "id": 10,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://cutewallpaper.org/24/car-png-side/download-car-side-view-convertible-png-audi-png-image-with-no-background--pngkeycom.png"
+
+      },
+      {
+        "id": 11,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpe9EJBZw1D0bcl3NcYzsd1RWGES8pDkSR5RM4HqeK2CztfQhj3ykg4TWyDlogDkJALa4&usqp=CAU"
+      },      {
+        "id": 12,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://freepngimg.com/save/36659-audi-car-real/1920x792"
+
+      },
+      {
+        "id": 13,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://img.lovepik.com/element/40143/4180.png_300.png"
+
+      },
+
+      {
+        "id": 14,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://pngimg.com/d/audi_PNG99485.png"
+
+      },
+      {
+        "id": 15,
+        "name": "Car9",
+        "price":1200,
+        "image":"https://media.istockphoto.com/id/1389781462/photo/3d-render-of-yellow-vintage-car-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=3BYNCEt83VzNdjcHKov9KURU3Y_wNCE4rvtth1wl0Xo="
+
+      }
+
+    ],
+    "users": [
+        { "id": 0, "name": "admin", "email": "admin@gmail.com","password":"admin@123"}
+      ]
+      
+  }
+  
